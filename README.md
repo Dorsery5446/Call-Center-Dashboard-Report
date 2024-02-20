@@ -1,7 +1,7 @@
 # Call-Center-Dashboard-Report
 This is the Power Bi Visualization report of the Call Center activities of Federal Communication Commission. This is a Descriptive Data Analysis Report (DDA) of an Independent Agency for the regulation of interstate and international Communication in United States of America.
 
-![Call Center DDA Dashboard screenshot](https://github.com/Dorsery5446/Call-Center-Dashboard-Report/blob/main/Call%20Center%20Dashboard%20screenshot.PNG))
+![Call Center DDA Dashboard screenshot](https://github.com/Dorsery5446/Call-Center-Dashboard-Report/blob/main/Call%20Center%20Dashboard%20screenshot.PNG)
 
 ## Data Use
 **Dataset:** Call Center
