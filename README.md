@@ -1,7 +1,7 @@
 # Call-Center-Dashboard-Report
 This is the Power Bi Visualization report of the Call Center activities of Federal Communication Commission. This is a Descriptive Data Analysis Report (DDA) of an Independent Agency for the regulation of interstate and international Communication in United States of America.
 
-![Sales Performance EDA Dashboard screenshot](https://github.com/Dorsery5446/Sales-Performance-Dashboard-Report/blob/main/Sales%20Performance%20Dashboard.PNG)
+![Call Center DDA Dashboard screenshot](https://github.com/Dorsery5446/Call-Center-Dashboard-Report/blob/main/Call%20Center%20Dashboard%20screenshot.PNG))
 
 ## Data Use
 **Dataset:** Call Center
@@ -71,9 +71,9 @@ Los Angeles accounted for 13,734 calls out of the total calls recorded during th
 The recommendations for these underlisted findings need to be adopted for efficient performance of Call Center Agents:
 -  Billing Questions: More efforts need to be put in place to reduce the billing rate of calls as it accounted for over 71% of Total Calls recorded during the period.
 -  Call Center Channel: Call Center recorded highest percentage of 33% out of the whole Total Calls under Channel. Hence, the need to improve quality call services to accommodate more call       
-    complaints through the channel.
+   complaints through the channel.
 -  Call Center’s Cities: Los Angeles accounted for highest number of Total Calls recorded. Hence, the need to employ more staff or divert staff from other Centers to improve response time of total 
-    calls.
+   calls.
 
 
 
